@@ -7,7 +7,7 @@ int main(int argc,char *argv[])
 	printf("感觉还行\n");
 	printf("真的菜\n");
 	printf("怕麻烦学什么编程，是吧\n");	
-
+	printf("看见麻烦，我不怕不怕啦\n");
 
 	return 0;
 }

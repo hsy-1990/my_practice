@@ -6,5 +6,6 @@ int mian(int argc,char *argv[])
 	printf("有点麻烦\n");
 	printf("别怕麻烦\n");
 	printf("胜利就在眼前\n");
+	printf("你胜利了\n");
 	return 0;
 }	
